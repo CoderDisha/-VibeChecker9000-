@@ -24,6 +24,8 @@ Vibe Checker 9000 is a ✨terminal-based✨ Python app that:
 
 > You only need Python 3 and main character energy 🌈
 
+## 🔮Git clone
+
 ```bash
-git clone https://github.com/CoderDisha/✨ Vibe Checker 9000™.git
+https://github.com/CoderDisha/-VibeChecker9000-.git
 
