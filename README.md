@@ -1,5 +1,5 @@
 <h1 align="center">
-✨ Vibe Checker 9000: Deluxe Edition™ 💻
+✨ Vibe Checker 9000™ 💻
 </h1>
 > *"a chaotic Gen-Z terminal app that tells you your vibe with 0 accuracy but 100% confidence."*  
 
